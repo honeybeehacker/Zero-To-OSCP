@@ -12,3 +12,6 @@ This guide includes suggestions on what to do and learn before taking the eLearn
 # Buzzwords
 Information Security, Offensive Security, Pentesting, Penetration Tester, Ethical Hacking, White Hat, Red Team, Blue Team, Purple Team.... 
 If you are interested in hacking and have no idea what any of these words mean, read on!
+
+# Disclaimer
+This guide was created from personal experience and is in no way comprehensive.
