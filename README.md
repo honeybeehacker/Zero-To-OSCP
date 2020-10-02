@@ -1,5 +1,5 @@
 # Zero to OSCP
-A quick guide for looking to go from zero to OSCP and start on the path to becoming a penetration tester. 
+A quick guide for anyone looking to go from zero to OSCP and start on the path to becoming a penetration tester. 
 
 # Who This is For
 This document is for anybody interested in ethical hacking who has no experience and is seeking guidance on where and how to start. 
