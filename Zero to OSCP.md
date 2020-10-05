@@ -40,3 +40,6 @@ o	The OWASP foundation is an industry-trusted community that creates guidelines,
 -	Security Podcasts: many exist, listen to learn about current issues and pick up terms and jargon used in the industry:
 o	Risky Business 
 o	Cyberwire daily 
+
+# Next Steps:
+Get involved in the information security community! Check out your local OWASP chapter, join a bug bounty community, attend local conferences, and connect with others. The more you understand the community, the better you can find your place in the cybersecurity ecosystem. 
