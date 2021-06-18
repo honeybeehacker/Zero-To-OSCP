@@ -19,6 +19,7 @@
     - Some recommended VMs Kioptrix1, Kioptrix 2, Kioptrix 3, Kioptrix 4, Fristileaks, Pwnlab_init, mrRobot, Vulnix, VulnOSc2
 -	HackTheBox 
     - Link: https://www.hackthebox.eu/ 
+    - Check out TJNull's list of OSCP-like machines: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159
 - The Offensive Security Proving Grounds (Play for free) 
     - Link: https://www.offensive-security.com/labs/ 
 5.	eLearnSecurity PTS course and eJPT certification: 
@@ -40,6 +41,9 @@
 -	Security Podcasts: many exist, listen to learn about current issues and pick up terms and jargon used in the industry:
     - Risky Business 
     - Cyberwire daily 
+-   PortSwigger:
+    - Interested in learning more web? PortSwigger provides excellent learning materials for free!
+    - Link: https://portswigger.net/web-security/all-materials/detailed
 
 # Next Steps:
-Get involved in the information security community! Check out your local OWASP chapter, join a bug bounty community, attend local conferences, and connect with others. The more you understand the community, the better you can find your place in the cybersecurity ecosystem. 
+Get involved in the information security community! Check out your local OWASP chapter, join a bug bounty community, attend local conferences, and connect with others. Find a discord server, join the hacker community on twitter, network with others! The more you understand the community, the better you can find your place in the cybersecurity ecosystem. 
