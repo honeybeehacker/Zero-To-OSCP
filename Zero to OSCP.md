@@ -35,6 +35,7 @@
 -	Price varies from $1,000 to $1,350, plus extra for lab time extensions and OSCP exam retakes
 
 # Useful Resources:
+-   I compiled a list of resources I found useful during my OSCP here: https://github.com/honeybeehacker/OSCP-References/blob/main/Resources.md
 -	Hacking Terms: https://www.hackterms.com/ 
 -	OWASP: 
     - The OWASP foundation is an industry-trusted community that creates guidelines, documentation, and tools for web app security. It’s important to understand and know the OWASP Top 10. 
