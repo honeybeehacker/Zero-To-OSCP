@@ -23,16 +23,17 @@
 - The Offensive Security Proving Grounds (Play for free) 
     - Link: https://www.offensive-security.com/labs/ 
 5.	eLearnSecurity PTS course and eJPT certification: 
--	Link: https://www.elearnsecurity.com/course/penetration_testing_student/ 
--	covers the basics, introduces you to tools, and lays the foundation for proceeding to the OSCP
+-	Certification Link: https://elearnsecurity.com/product/ejpt-certification/ 
+-	Training Link: https://my.ine.com/path/a223968e-3a74-45ed-884d-2d16760b8bbd
+-	Requires INE subscription: covers the basics, introduces you to tools, and lays the foundation for proceeding to the OSCP
 -	Penetration Testing Student course for total beginners
--	Price varies from $400 to $$600 depending on desired options
+-	Price varies from $49/month to $750/year
 6.	Offensive Security’s PWK and OSCP Certification:
 -	Link: https://www.offensive-security.com/pwk-oscp/ 
 -	Updated in 2020, the course includes comprehensive coursework, videos, and access to lab environment to practice in
 -	You can purchase additional lab time – the lab environment is invaluable for practicing in, gaining pentesting experience, and preparing for the OSCP
 -	You must pass a 24-hour exam to pass the OSCP
--	Price varies from $1,000 to $1,350, plus extra for lab time extensions and OSCP exam retakes
+-	Price varies from $999 - $1349, plus extra for lab time extensions and OSCP exam retakes
 
 # Useful Resources:
 -   I compiled a list of resources I found useful during my OSCP here: https://github.com/honeybeehacker/OSCP-References/blob/main/Resources.md
